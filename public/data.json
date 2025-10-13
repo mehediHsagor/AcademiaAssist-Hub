@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Poster Presentation",
+    "details": "A visual presentation that summarizes research findings or academic work using graphics, charts, and brief text explanations.",
+    "image": "https://example.com/images/poster-presentation.jpg"
+  },
+  {
+    "name": "Case Study",
+    "details": "An in-depth analysis of a real-life scenario or problem, focusing on practical application of theoretical knowledge.",
+    "image": "https://example.com/images/case-study.jpg"
+  },
+  {
+    "name": "Term Paper",
+    "details": "A research-based academic paper written by students over an academic term, typically analyzing a specific topic in detail.",
+    "image": "https://example.com/images/term-paper.jpg"
+  },
+  {
+    "name": "Thesis Writing",
+    "details": "A comprehensive research document submitted in support of a candidate’s academic degree, presenting original research and findings.",
+    "image": "https://example.com/images/thesis-writing.jpg"
+  },
+  {
+    "name": "Research Writing",
+    "details": "A systematic process of investigating a topic, collecting data, analyzing information, and presenting results in an academic format.",
+    "image": "https://example.com/images/research-writing.jpg"
+  },
+  {
+    "name": "Internship Report",
+    "details": "A detailed report summarizing the learning experiences, tasks, and outcomes of a student’s internship at an organization.",
+    "image": "https://example.com/images/internship-report.jpg"
+  }
+]

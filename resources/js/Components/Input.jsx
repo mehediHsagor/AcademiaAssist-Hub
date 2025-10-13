@@ -14,7 +14,7 @@ const Input = ({ type, name, value, placeholder, onChange, error, label }) => {
                 value={value}
                 placeholder={placeholder}
                 onChange={onChange}
-                className={`w-52 px-4 py-3 border rounded-lg pl-4 transition outline-none
+                className={`w-64 px-4 py-3 border rounded-lg pl-4 transition outline-none
           ${
               error
                   ? "border-red-500 focus:border-red-500 focus:ring-1 focus:ring-red-400"

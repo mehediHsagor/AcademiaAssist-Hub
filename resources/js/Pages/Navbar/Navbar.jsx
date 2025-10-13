@@ -55,7 +55,7 @@ const Navbar = () => {
                     <a href="#" className="hover:text-red-600">
                         Contact
                     </a>
-                    <Button name="Login" navigate={`/`} />
+                    <Button name="Login" />
                 </div>
             )}
         </nav>
